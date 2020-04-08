@@ -1,4 +1,4 @@
 Before I study about the variables in JavaScript it was quite confusing to use var and const.
-Cause I did not know the difference. Now I know why that they are completely different.
+Cause I did not know the difference. Now I know that they are completely different.
 If you use var you can redeclare value the variable at any time and value will be changed.
 However, in case of the const, you can declare it only one time. Never changes.
